@@ -366,3 +366,6 @@ p {
   display: flex;
   gap: 24px;
 }
+.header-board {
+  border-bottom: 1px solid var(--cornflower);
+}
